@@ -10,26 +10,26 @@ const Hero = () => (
       <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
         <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
         <p className={`${styles.paragraph} ms-2`}>
-          <span className="text-white">20%</span> Discount For{" "}
-          <span className="text-white">1 Month</span> Account
+          <span className="text-white">۲۰%</span> تخفیف برای{" "}
+          <span className="text-white">1 ماه</span> آغازین
         </p>
       </div>
       <div className="flex flex-row justify-between items-center w-full">
         <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100px] leading-[75px]">
-          The Next <br className="sm:block hidden" />{" "}
-          <span className="text-gradient">Generation</span>
+          روش <br className="sm:block hidden" />{" "}
+          <span className="text-gradient">نسل بعدی</span>
         </h1>
         <div className="ss:flex hidden md:me-0 me-0">
           <GetStarted />
         </div>
       </div>
       <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">
-        Payment Method.
+        پرداخت نوین
       </h1>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Our team of experts uses a methodology to identify the credit cards most
-        likely to fit your need. We examine annual percentage rates, annual
-        fees.
+        کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و
+        متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه
+        ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد.
       </p>
     </div>
     <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>

@@ -14,12 +14,13 @@ const Billing = () => (
     </div>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing.
+        صورتحساب های خود را <br className="sm:block hidden" /> به راحتی کنترل
+        کنید.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu apipiscing ultrices ametodio aenean
-        neque. Fusce ipsum orci rhnocus aliporttitor integer platea placerat.
+        چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و
+        برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود
+        ابزارهای کاربردی می باشد.
       </p>
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
         <img

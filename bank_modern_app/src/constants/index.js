@@ -18,19 +18,19 @@ import {
 export const navLinks = [
   {
     id: "home",
-    title: "Home",
+    title: "صفحه اصلی",
   },
   {
     id: "features",
-    title: "Features",
+    title: "قابلیت ها",
   },
   {
     id: "product",
-    title: "Product",
+    title: "محصولات",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "مشتری ها",
   },
 ];
 
@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "امتیازات",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "بالاترین امنیت",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "این یک نوشته آزمایشی است که به طراحان و برنامه نویسان کمک میکند تا این عزیزان با بهره گیری از این نوشته تستی و آزمایشی بتوانند نمونه تکمیل شده از پروژه و طرح خودشان را به کارفرما نمایش دهند.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "انتقال موجودی",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "طراحان به جای تایپ و نگارش متن می توانند تنها با یک کپی و پست این متن را در کادرهای مختلف جایگزین نمائید.",
   },
 ];
 
@@ -62,25 +62,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی .",
+    name: "محمد محمدی",
+    title: "بنیانگذار",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد.",
+    name: "مریم مریمی",
+    title: "رهبر",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی.",
+    name: "رضا رضایی",
+    title: "مدیر اجرایی",
     img: people03,
   },
 ];
@@ -88,82 +88,82 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "کابران فعال",
+    value: "۳۸۰۰+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "مورد اعتماد شرکت ها",
+    value: "۲۳۰+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "تبادلات",
+    value: "۵۷۰ میلیارد +",
   },
 ];
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "لینک های مفید",
     links: [
       {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
+        name: "صفحه اصلی",
+        link: "https://www.seabank.com/content/",
       },
       {
-        name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        name: "چگونه کار می کند",
+        link: "https://www.seabank.com/how-it-works/",
       },
       {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
+        name: "ثبت نام",
+        link: "https://www.seabank.com/create/",
       },
       {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        name: "جستجو",
+        link: "https://www.seabank.com/explore/",
       },
       {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        name: "قوانین و مقررات",
+        link: "https://www.seabank.com/terms-and-services/",
       },
     ],
   },
   {
-    title: "Community",
+    title: "انجمن",
     links: [
       {
-        name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        name: "پشتیبانی",
+        link: "https://www.seabank.com/help-center/",
       },
       {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        name: "شرکای تجاری",
+        link: "https://www.seabank.com/partners/",
       },
       {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        name: "پیشنهادات",
+        link: "https://www.seabank.com/suggestions/",
       },
       {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        name: "بلاگ",
+        link: "https://www.seabank.com/blog/",
       },
       {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        name: "خبرنامه",
+        link: "https://www.seabank.com/newsletters/",
       },
     ],
   },
   {
-    title: "Partner",
+    title: "شرکای تجاری",
     links: [
       {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        name: "شرکای ما",
+        link: "https://www.seabank.com/our-partner/",
       },
       {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        name: "شریک ما شوید",
+        link: "https://www.seabank.com/become-a-partner/",
       },
     ],
   },
@@ -184,11 +184,6 @@ export const socialMedia = [
     id: "social-media-3",
     icon: twitter,
     link: "https://www.twitter.com/",
-  },
-  {
-    id: "social-media-4",
-    icon: linkedin,
-    link: "https://www.linkedin.com/",
   },
 ];
 
